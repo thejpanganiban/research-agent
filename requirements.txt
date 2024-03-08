@@ -1,0 +1,8 @@
+Django==4.2
+Langchain==0.1.10
+Openai==1.13.3
+Streamlit==1.31.1
+django-ninja==1.1.0
+django_extensions==3.2.3
+langchain-openai==0.0.8
+requests==2.31.0
